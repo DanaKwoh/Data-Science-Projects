@@ -5,6 +5,7 @@ Title: Snow Emergency Parking in Boston
 - **Source Title:** [Analyze Boston](https://data.boston.gov/dataset/snow-emergency-parking)
 - **Source Link:** [Snow Emergency Parking](https://data.boston.gov/dataset/snow-emergency-parking)
 - **Data Source ID:** 16f8ca11-b92d-4f0a-b654-c06cdb12b9e9
+- **Data Source Link:**[Boston GIS](https://bostonopendata-boston.opendata.arcgis.com/datasets/boston::parking-meters/about)
 - **Author:** Dana Kwoh
 - **Contact:** [danakwohh@gmail.com](mailto:danakwohh@gmail.com)
 
