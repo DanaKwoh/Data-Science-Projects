@@ -11,6 +11,5 @@ Title: Snow Emergency Parking in Boston
 ## Project Details
 - **Language:** Python 3
 - **Data Size:** 16KB
-- **Data File Type:** CSV
 - **Data Type:** Geospatial
 - **Description:** Snow emergency parking locations. Updated by the City of Boston in January 2019. These locations include both private garages and municipal lots.
