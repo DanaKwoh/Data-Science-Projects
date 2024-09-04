@@ -1,6 +1,11 @@
 # Bos-Parking-Meters
 Title: Snow Emergency Parking in Boston
 
+## Project Details
+- **Language:** Python 3
+- **Description:** City of Boston parking meters. Updated and maintained by Boston Transportation Department (BTD) Parking Clerk.
+- **Creation Date:** Sep 3rd 2024
+
 ## Data Source Information
 - **Source Title:** Analyze Boston
 - **Source Link:** [Parking Meters](https://data.boston.gov/dataset/parking-meters)
@@ -9,9 +14,13 @@ Title: Snow Emergency Parking in Boston
 - **Author:** Dana Kwoh
 - **Contact:** [danakwohh@gmail.com](mailto:danakwohh@gmail.com)
 
-## Project Details
-- **Language:** Python 3
-- **Data Size:** 2.1MB
+## Data Profiling
+- **Data Size:** 2.3MB
+- **Number of Variables:** 44
+- **Numebr of Columns:** 6955
+- **Missing cell:** 47.4%
+- **Duplicating rows:** 0.0%
 - **Data Type:** Geospatial
-- **Description:** City of Boston parking meters. Updated and maintained by Boston Transportation Department (BTD) Parking Clerk.
-- **Creation Date:** Sep 3rd 2024
+
+## Analysis Objectives
+- **Business Requirement:** 
